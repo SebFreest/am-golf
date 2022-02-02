@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "sourceMap": false,
+    "declaration": false,
+    "noImplicitAny": true,
+    "types": ["@wdio/sync", "@wdio/cucumber-framework", "node"],
+    "typeRoots": ["./types"]
+  }
+}

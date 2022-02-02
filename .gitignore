@@ -1,0 +1,6 @@
+node_modules
+artifacts
+artifacts/jsonReports
+artifacts/screenshots
+allure-report
+allure-results 
